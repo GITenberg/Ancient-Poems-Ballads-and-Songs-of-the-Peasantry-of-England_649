@@ -1,0 +1,32 @@
+_repo: Ancient-Poems-Ballads-and-Songs-of-the-Peasantry-of-England_649
+contributor:
+  contributor:
+    agent_name: Dixon, James Henry
+    birthdate: 1803
+    deathdate: 1876
+    gutenberg_agent_id: '41568'
+    url: http://www.gutenberg.org/2009/agents/41568
+  creator:
+    editor:
+      agent_name: Bell, Robert
+      birthdate: 1800
+      deathdate: 1867
+      gutenberg_agent_id: '335'
+      url: http://www.gutenberg.org/2009/agents/335
+      wikipedia: http://en.wikipedia.org/wiki/Robert_Bell_%28writer%29
+description: ''
+gutenberg_issued: '1996-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '649'
+  lccn: '15022311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Songs, English -- England -- Texts'
+- !lcc 'PR'
+- !lcsh 'Ballads, English -- England -- Texts'
+title: Ancient Poems, Ballads, and Songs of the Peasantry of England
+url: http://www.gutenberg.org/ebooks/649
