@@ -1,5 +1,5 @@
 _repo: Ancient-Poems-Ballads-and-Songs-of-the-Peasantry-of-England_649
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Dixon, James Henry
@@ -15,7 +15,12 @@ contributor:
       gutenberg_agent_id: '335'
       url: http://www.gutenberg.org/2009/agents/335
       wikipedia: http://en.wikipedia.org/wiki/Robert_Bell_%28writer%29
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/649#Ancient-Poems-Ballads-and-Songs-of-the-Peasantry-of-England
 gutenberg_issued: '1996-09-01'
 gutenberg_type: Text
 identifiers:
