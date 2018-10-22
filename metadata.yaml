@@ -1,5 +1,5 @@
 _repo: Ancient-Poems-Ballads-and-Songs-of-the-Peasantry-of-England_649
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributor:
     agent_name: Dixon, James Henry
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'Songs, English -- England -- Texts'
 - !lcc 'PR'
 - !lcsh 'Ballads, English -- England -- Texts'
+- GITenberg
 title: Ancient Poems, Ballads, and Songs of the Peasantry of England
 url: http://www.gutenberg.org/ebooks/649
